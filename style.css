@@ -64,27 +64,8 @@ ul .edu{
 	transition: all 0.3s ease;
 	background:rgba(0, 0, 0, 0.36);
 }
-/* Logo */
-#header .logo {
-	padding-top: 17px;
-}
-#header .logo a {
-	color: #fff;
-	text-transform: capitalize;
-	font-size: 22px;
-	font-weight: 600;
-	position: relative;
-	padding-left: 16px;
-}
-#header .logo a::before {
-	position: absolute;
-	left: 0;
-	top: 12px;
-	width: 10px;
-	height: 10px;
-	content: "";
-	border-radius: 100%;
-}
+
+
 /* Main Menu */
 #header .nav-area{
 	position:relative;
