@@ -792,7 +792,7 @@ ul .edu{
 }
 #about-me .social {
 	width: 100%;
-	text-align: left;
+	text-align: right;
 	margin-top: 20px;
 }
 #about-me .social ul li {
@@ -936,7 +936,7 @@ ul .edu{
 	margin: 0;
 }
 #portfolio .col-fix{
-	padding:0;
+	padding:37px;
 }
 #portfolio .portfolio-nav {
 	text-align: center;
